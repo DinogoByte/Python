@@ -6,8 +6,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from webdrivermanager.chrome import ChromeDriverManager
 import time
 
-# browser = webdriver.Chrome(ChromeDriverManager().install())
-browser = webdriver.Chrome()
+browser = webdriver.Chrome(ChromeDriverManager().install())
+# browser = webdriver.Chrome()
 
 browser.get('http://www.baidu.com/')
 input = browser.find_element_by_id('kw')

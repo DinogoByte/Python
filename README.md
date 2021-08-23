@@ -39,6 +39,7 @@
 - [刷题/实践 Codeabbey](https://www.codeabbey.com/index/task_list) —— 刷题好去处，巩固基础（也支持其他语言）
 - [Python3WebSpider](https://github.com/prkom/Python3WebSpider) —— 关于爬虫
 - [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching) —— 讲学习的思想
+- [爬虫大纲](https://mubu.com/doc/2Vcs1xFWz7i#m)
 
 
 > 希望可以一起来坚持下去，一点一滴积累，得到收获（未知->知道->了解->熟悉->掌握->精通）
